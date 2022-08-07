@@ -13,7 +13,7 @@ class Solution {
     }
 
     public static void main(String[] args){
-        int sum;
+        int sum = 0;
         Scanner cin = new Scanner(System.in);
         System.out.println("Enter the range of prime numbers you want: \n");
         int range = cin.nextInt();
